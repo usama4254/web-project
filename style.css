@@ -1,0 +1,212 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+.header{
+
+
+    background-color: purple;
+}
+
+.navbar-nav {
+    margin-left: auto;
+}
+.navbar-nav .nav-item {
+    font-size: 20px;
+    font-weight: bold;
+
+
+ 
+}
+.navbar-brand img{
+
+width: 120px;
+height: 60px;
+
+}
+
+
+
+.container{
+
+padding-top: 150px;
+
+    /*background-color: purple;*/
+}
+.play img{
+
+
+
+
+    width: 80px;
+    height: 60px;
+
+    margin-top: 100px;
+margin-bottom: 100px;
+display: inline;
+}
+.play p{
+
+    display: inline;
+    color: #fff;
+}
+.imag{
+padding-top: 80px;
+
+
+}
+.imag img{
+width: 400px;
+height: 200px;
+padding-left: 100px;
+
+}
+#h{
+
+text-align: center;
+
+}
+.sixe img{
+
+width: 120px;
+height: 100px;
+
+}
+.sixe h3{
+
+padding-bottom: 20px;
+
+}
+.sixe p{
+
+display: inline;
+justify-content: flex-start;
+direction: ltr;
+
+}
+.boton{
+
+margin-top: 40px;
+text-transform: capitalize;
+font-size: 20px;
+
+
+}
+.list{
+
+
+background-color: aqua;
+width: 100%;
+height: 300px;
+
+
+}
+.list h3{
+padding-top: 30px;
+
+
+
+}
+.list p{
+    font-weight: 800;
+    margin-left: 200px;
+}
+.list ul li{
+
+margin-left: 180px;
+list-style-type: circle;
+
+}
+.block{
+
+border-left: 4px solid  purple;
+
+margin: 50px 0px;
+
+}
+
+
+.block img{
+    width: 80px;
+    height: 80px;
+
+border-radius: 50px;
+
+}
+.textimg{
+
+    display: inline-block;
+}
+
+.social{
+
+border-color: aquamarine;
+
+}
+
+.social-icons{
+
+
+    background-color: aquamarine;
+    width: 100%;
+    height: 200px;
+    padding-top: 40px;
+    /*display: inline-block;
+    justify-content: center;
+    align-items: center;*/
+
+
+}
+.social-icons img {
+
+transition: 0.5s;
+
+}
+
+.social-icons a:hover img{
+
+transform: translatey(-10px);
+
+}
+#footer{
+
+background-color: purple;
+margin-top: 80px;
+}
+
+.footer-box{
+
+    margin-left: 20px;
+}
+.footer-box img{
+
+
+
+    width: 80px;
+    height: 60px;
+    
+}
+.footer-box .para{
+
+padding-top: 10px;
+margin-right: 20px;
+
+}
+.footer-box .bi{
+    margin-right: 8px;
+    font-size: 25px;
+    width: 30px;
+    height: 30px;
+
+    padding-top: 7px;
+    border-radius: 5px;
+    background-color: rgb(110, 42, 165);
+    
+
+
+
+
+}
